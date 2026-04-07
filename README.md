@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Shabbir
 
-<!--
-**muhammed-shabbir/muhammed-shabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js | JavaScript  
+💻 I build high-performance, visually engaging, and responsive web applications  
+✨ Passionate about creating modern, mind-blowing UI with smooth animations and clean design  
+📈 Completed 20+ projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- HTML5, CSS3, JavaScript
+- React.js
+- Python, SQL
+- MySQL
+
+
+---
+
+## 📌 Projects
+- 🚗 Auto Eye Park (IoT Smart Parking System with OCR & Real-time Monitoring)
+- 🌐 Personal Portfolio Website  
+- 🏨 Hotel Management System  
+
+
+---
+
+## 💡 What I Do
+- Build responsive and scalable web applications  
+- Create advanced UI with smooth animations and modern design  
+- Develop reusable components and optimize performance  
+- Integrate REST APIs for dynamic applications  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/muhammed-shabbir-dev
